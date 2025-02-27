@@ -1,0 +1,49 @@
+エレメントの中身の一部
+
+
+<td class="date">12月14日<span class="sat">土曜</span></td>
+<td class="race"><span class="grade_icon g3">GⅢ</span>ターコイズS</td>
+<td class="place">中山</td>
+<td class="age">3歳以上牝</td>
+<td class="course"><span class="type">芝</span>1,600<span class="unit">メートル</span></td>
+<td class="winner">コントラチェック</td>
+<td class="jockey">C.ルメール</td>
+<td class="result"><a class="btn-def btn-xs" href="/datafile/seiseki/replay/2019/112.html"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i>レース結果</a></td>
+</tr>
+<tr class="yellow-x">
+
+<td class="date">12月21日<span class="sat">土曜</span></td>
+<td class="race"><span class="grade_icon g2">GⅡ</span>阪神C</td>
+<td class="place">阪神</td>
+<td class="age">3歳以上</td>
+<td class="course"><span class="type">芝</span>1,400<span class="unit">メートル</span></td>
+<td class="winner">グランアレグリア</td>
+<td class="jockey">C.ルメール</td>
+<td class="result"><a class="btn-def btn-xs" href="/datafile/seiseki/replay/2019/113.html"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i>レース結果</a></td>
+</tr>
+<tr class="yellow-x">
+
+<td class="date">12月22日<span class="sun">日曜</span></td>
+<td class="race"><span class="grade_icon g1">GⅠ</span><a href="/datafile/seiseki/g1/arima/index.html">有馬記念</a></td>   
+<td class="place">中山</td>
+<td class="age">3歳以上</td>
+<td class="course"><span class="type">芝</span>2,500<span class="unit">メートル</span></td>
+<td class="winner">リスグラシュー</td>
+<td class="jockey">D.レーン</td>
+<td class="result"><a class="btn-def btn-xs" href="/datafile/seiseki/g1/arima/result/arima2019.html"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i>レース結果</a></td>
+</tr>
+<tr class="yellow-x">
+
+<td class="date">12月28日<span class="sat">土曜</span></td>
+<td class="race"><span class="grade_icon g1">GⅠ</span><a href="/datafile/seiseki/g1/hopeful/index.html">ホープフルS</a></td>
+<td class="place">中山</td>
+<td class="age">2歳牡・牝</td>
+<td class="course"><span class="type">芝</span>2,000<span class="unit">メートル</span></td>
+<td class="winner">コントレイル</td>
+<td class="jockey">福永　祐一</td>
+<td class="result"><a class="btn-def btn-xs" href="/datafile/seiseki/g1/hopeful/result/hopeful2019.html"><i aria-hidden="true" class="fa fa-chevron-circle-right"></i>レース結果</a></td>
+
+</tr>
+</tbody>
+</table>
+</div>
