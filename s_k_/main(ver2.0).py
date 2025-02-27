@@ -142,10 +142,11 @@ def main2():
                     analyze.print_result(result3)
                     
             if b == "2":
-                print("距離条件を入力後、その条件で2回以上勝った騎手を勝ち鞍の多い順に表示します")
+                print("距離条件を入力後、その条件でn回以上勝った騎手を勝ち鞍の多い順に表示します")
                 seldist = input("距離条件を入力[例:芝2000メートル]: ")
+                num = int(input("何回以上勝った騎手を絞り込みますか[例:3]: "))
 
-                result4 = analyzer.search_year_distance_jockeys(raceyear, format_distance(seldist), min_count=2)
+                result4 = analyzer.search_year_distance_jockeys(raceyear, format_distance(seldist), min_count=num)
                 print("=" * 50)
                     # 2回以上勝った騎手がいないこともある
                 if not result4:
